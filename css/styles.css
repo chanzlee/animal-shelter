@@ -56,3 +56,18 @@ div.footer {
 .cats h2 {
   font-weight: bold;
 }
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  body {
+    background-color: green;
+    color: white;
+  }
+}
