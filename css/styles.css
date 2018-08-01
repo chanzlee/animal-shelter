@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+}
+.profile {
+  margin: auto;
+  border: 20px solid red;
+
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+
+div .dogs {
+  margin: auto;
+  font-family: monospace;
+  width: 150px;
+  margin: 20px;
+  float: left;
+  padding: 100px;
+  background-color: black;
+  color: white;
+  height: 1000px;
+}
+
+div .rabbits {
+  margin: auto;
+  font-family: sans-serif;
+  width: 150px;
+  margin: 20px;
+  float: left;
+  padding: 100px;
+  background-color: black;
+  color: white;
+  height: 1000px;
+}
+
+div .cats {
+  margin: auto;
+  font-family: arial;
+  width: 150px;
+  margin: 20px;
+  float: left;
+  padding: 100px;
+  background-color: black;
+  color: white;
+  height: 1000px;
+}
+
+div.footer {
+  font-style: italic;
+  color: red;
+}
+
+.cats h2 {
+  font-weight: bold;
+}
